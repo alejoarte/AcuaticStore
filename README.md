@@ -54,3 +54,8 @@ Tienda en línea de equipamiento para nadadores. AquaticStore permite explorar g
 ├── index.html            # Página principal
 └── README.md
 ```
+
+## Chat
+
+- Se tiene integrado un chat que permite interactuar con los clientes sin que ellos tengan que salir de la pagina web
+- Nota: Se necesita para esto un inbox que este integrado con esta entrada.
